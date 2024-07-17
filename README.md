@@ -12,7 +12,12 @@ Threshold = 50
 
 Keybinding = z
 
-Have fun!
+### How to change these values:
+
+Press enter while Yapper is running to prompt the options to change your threshold and keybinding.
+
+
+# Have fun!
 
 ### [Here's Yapper in action](https://www.youtube.com/watch?v=25XTscgFHYE?t=403)
 
