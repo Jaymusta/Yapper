@@ -2,7 +2,7 @@
 
 ## Well, now you can with Yapper!
 
-### You will need to install python for this to work
+### You will need to install python for the .exe to work properly
 
 ### [Download Python here](https://www.python.org/downloads/)
 
