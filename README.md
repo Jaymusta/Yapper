@@ -10,3 +10,6 @@ Threshold = 50
 Keybinding = z
 
 Have fun!
+
+Here is Yapper in action:
+https://youtu.be/25XTscgFHYE?t=403
