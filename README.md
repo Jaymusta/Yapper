@@ -14,7 +14,7 @@ Keybinding = z
 
 ### How to change these values:
 
-Press enter while Yapper is running to prompt the options to change your threshold and keybinding. (Threshold values range from 1-100)
+Press enter while Yapper is running to prompt the options to change your threshold and keybinding. (Threshold values range from 0.01-100)
 
 
 # Have fun!
