@@ -2,6 +2,10 @@
 
 ## Well, now you can with Yapper!
 
+### You will need to install python for this to work
+
+### [Download Python here](https://www.python.org/downloads/)
+
 ### How it works:
 
 Yapper constantly scans the volume levels coming from your microphone. When the set threshold is met or passed, Yapper activates the configured keybinding.
