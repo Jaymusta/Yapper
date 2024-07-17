@@ -19,7 +19,7 @@ Press enter while Yapper is running to prompt the options to change your thresho
 
 # Have fun!
 
-### [Here's Yapper in action](https://www.youtube.com/watch?v=25XTscgFHYE?t=403)
+### [Here's Yapper in action (6:43)](https://www.youtube.com/watch?v=25XTscgFHYE?t=404)
 
 ![yapper 1](https://github.com/user-attachments/assets/3f2b1234-95d4-4fc9-9632-5c4185832377)
 ![yapper 2](https://github.com/user-attachments/assets/4b802f3d-0432-45e9-9478-e7bb2e838bfe)
