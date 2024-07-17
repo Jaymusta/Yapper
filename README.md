@@ -4,7 +4,7 @@
 
 ### How it works:
 
-Yapper constantly scans the volume levels coming from your microphone. When the set threshold is met or passed, it triggers Yapper to activate the configured keybinding.
+Yapper constantly scans the volume levels coming from your microphone. When the set threshold is met or passed, Yapper activates the configured keybinding.
 
 By default, these values are set as follows:
 
@@ -23,3 +23,5 @@ Press enter while Yapper is running to prompt the options to change your thresho
 
 ![yapper 1](https://github.com/user-attachments/assets/3f2b1234-95d4-4fc9-9632-5c4185832377)
 ![yapper 2](https://github.com/user-attachments/assets/4b802f3d-0432-45e9-9478-e7bb2e838bfe)
+
+[Download the latest version here](https://github.com/Jaymusta/Yapper/releases)
