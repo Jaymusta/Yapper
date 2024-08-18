@@ -1,3 +1,4 @@
+![yapper logo](https://github.com/user-attachments/assets/7a399d22-6d2d-45ae-95e2-345294ff55a3)
 # Have you ever wanted to play osu! with your voice? To yell the circles to the beat? 
 
 ## Well, now you can with Yapper!
